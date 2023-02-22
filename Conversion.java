@@ -22,7 +22,7 @@ public class Conversion {
     public static void displayOption(int option, Scanner scanner) {
         switch (option) {
             case 1:
-            System.out.println("You chose option 1");
+            System.out.println("You chose option 12132");
             showMenu(scanner);
             break;
             case 2:
